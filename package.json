@@ -1,0 +1,18 @@
+{
+  "name": "letize",
+  "main": "./lib/letize",
+  "version": "0.0.0",
+  "description": "Convert variable assignments into before blocks",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "letize:toggle"
+  },
+  "activationHooks": ["language-rspec:grammar-used"],
+  "repository": "https://github.com/JustinAiken/atom-letize",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
