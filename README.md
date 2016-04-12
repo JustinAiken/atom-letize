@@ -4,7 +4,7 @@
 - Are you spending all day `let`izing legecy specs?
 - This package to the rescue!
 
-![Screenshot](docs/preview.gif)
+![Screenshot](https://raw.githubusercontent.com/JustinAiken/atom-letize/master/docs/preview.gif)
 
 ## Example
 
